@@ -167,10 +167,6 @@ button:hover {
         height: 100vh;
     }
 
-    .test {
-        display: flex;
-    }
-    
     div#component {
         /* padding: 0; */
         /* margin: 0; */
